@@ -11,4 +11,4 @@ Build your knowledge one log at a time while taking notes with Beaver! Our missi
 <a href="https://beavernotes.com/#/Download">Download</a> ·
 <a href="https://mastodon.social/@Beavernotes">Mastodon</a> ·
 <a href="https://bsky.app/profile/beavernotes.com">Bluesky</a> ·
-<a href="https://www.reddit.com/r/BeaverNotes/">Reddit</a> ·
+<a href="https://www.reddit.com/r/BeaverNotes/">Reddit</a>
