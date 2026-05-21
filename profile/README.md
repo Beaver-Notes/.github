@@ -2,7 +2,7 @@
 
 ### `Beaver Notes`
 
-A local-first open-source notes app. No cloud. No AI. No tracking. Our mission is to give our users the perfect balance of simplicity, privacy, and productivity. Made with love ❤️ in 🇪🇺!
+The local-first open-source notes app. Our mission is to give our users the perfect balance of simplicity, privacy, and productivity. Made with love ❤️ in 🇪🇺!
 
 <a href="https://docs.beavernotes.com/beaver%20notes%20(dev)/2025/01/03/How-to-contribute.html">Contribute</a> ·
 <a href="https://beavernotes.com/">Website</a> ·
